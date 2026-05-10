@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ahsan%20Ahmed%20Shaikh&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Android%20%26%20Kotlin%20Developer&descAlignY=58&descColor=a8b2d8"/>
+# Hi there, I'm Ahsan Ahmed Shaikh 👋
+### Android & Kotlin Developer 📱
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Building+Android+apps+that+matter+%F0%9F%93%B1;Kotlin+%7C+Java+%7C+Jetpack+Compose;Firebase+%7C+REST+APIs+%7C+Room+DB;Open+to+Remote+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Android+%26+Kotlin+Developer+%F0%9F%93%B1;Java+%7C+Kotlin+%7C+Jetpack+Compose;Firebase+%7C+REST+APIs+%7C+Room+DB;Open+to+Remote+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-ahmed-shaikh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanshaikh5534@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsanshyk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsanshyk)
 
 </div>
 
@@ -24,16 +23,17 @@ data class Developer(
     val role: String       = "Android & Kotlin Developer",
     val location: String   = "Karachi, Pakistan 🇵🇰",
     val education: String  = "BS Information Technology — CGPA 3.7/4.0",
-    val experience: String = "Internship @ App In Snap Pvt. Ltd.",
+    val university: String = "GC University, Sindh",
+    val experience: String = "Intern @ App In Snap Pvt. Ltd.",
     val available: Boolean = true  // Open to remote & on-site roles
 )
 ```
 
-- 🎓 Fresh IT graduate with a **3.7/4.0 GPA** from GC University, Sindh
+- 🎓 Fresh IT graduate with **3.7/4.0 GPA** from GC University, Sindh
 - 📱 Built **3 real-world Android apps** — not just tutorial clones
 - 🏆 **1st Position** in App Development & Web Development at GCU
-- 🌐 IEEE Student Member
-- 💼 Open to **Android / Kotlin / Mobile Developer** roles — remote or on-site
+- 🌐 **IEEE Student Member**
+- 💼 Open to **Android / Kotlin / Mobile Developer** roles
 
 ---
 
@@ -46,7 +46,6 @@ data class Developer(
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Android Development**
@@ -61,14 +60,12 @@ data class Developer(
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT_Hardware-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 **Tools & Design**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -76,61 +73,57 @@ data class Developer(
 
 ## 🚀 Featured Projects
 
-### 📄 CV360 — AI Resume Analyzer
-> *Java • Gemini Pro AI • Room DB • PDF Parsing*
+### 📄 [CV360 — AI Resume Analyzer](https://github.com/ahsanshyk)
+> *Java • Gemini Pro • Room DB • PDF Parsing* — `2024`
 
-An AI-powered Android app that analyzes resumes against job descriptions with **90%+ matching accuracy**.
-- 🤖 Integrated **Gemini Pro** for intelligent resume-job matching
+An AI-powered Android app that analyzes resumes against job descriptions with **90%+ matching accuracy**
+- 🤖 Integrated **Gemini Pro AI** for intelligent resume-job matching
 - 📑 Built custom **PDF parsing engine** from scratch
-- 💾 Local history tracking with **Room Database**
-- 📊 Clean results dashboard with match scores and improvement tips
+- 💾 Offline history tracking with **Room Database**
 
 ---
 
-### 📦 Go Deliver — IoT Smart Courier App
-> *Java • Android • ESP32 • Bluetooth Low Energy (BLE)*
+### 📦 [Go Deliver — IoT Smart Courier App](https://github.com/ahsanshyk)
+> *Java • Android • ESP32 • Bluetooth Low Energy* — `2025`
 
-An automated parcel handling system bridging mobile and hardware in real-time.
-- 🔵 Connected Android clients to **ESP32 hardware via BLE**
-- ⚖️ Real-time **weight detection** through sensor data processing
-- 🖨️ Automated **thermal receipt printing** via hardware-software handshakes
-- 📡 Reliable low-latency communication protocol implementation
+Automated parcel handling system connecting Android to hardware in real-time
+- 🔵 Android to **ESP32 hardware communication via BLE**
+- ⚖️ Real-time **weight detection** and sensor data processing
+- 🖨️ Automated **thermal receipt printing**
 
 ---
 
-### 🎓 Raah — Multilingual Career Guidance App
-> *React Native • Expo • Content-Based Recommender System*
+### 🎓 [Raah — Multilingual Career Guidance App](https://github.com/ahsanshyk)
+> *React Native • Expo • Recommender System* — `2026`
 
-A personalized career guidance platform for students.
-- 🧭 **Content-based recommender system** for personalized career pathing
+Personalized career guidance platform for students
+- 🧭 **Content-based recommender** for personalized career pathing
 - 🌐 **Multilingual** support for wider student accessibility
-- 🎓 Expert-verified data for **internships and scholarships**
-- 📚 Academic profile matching for tailored recommendations
+- 🎓 Expert-verified **internship & scholarship** data modules
 
 ---
 
 ## 💼 Experience
 
-**Software Engineer Intern** — App In Snap Pvt. Ltd. *(Jun–Aug 2023)*
+**🧑‍💻 Software Engineer Intern** — App In Snap Pvt. Ltd. *(Jun – Aug 2023)*
 - Developed & optimized core Java modules with Firebase backend integration
 - Designed high-fidelity UI/UX prototypes in Figma
-- Led cross-device compatibility testing across multiple hardware specs
+- Led cross-device compatibility testing
 
-**Network Engineer Intern** — App In Snap Pvt. Ltd. *(Jan–Feb 2023)*
+**🌐 Network Engineer Intern** — App In Snap Pvt. Ltd. *(Jan – Feb 2023)*
 - Maintained **99.9% uptime** for office infrastructure
-- Configured IP addressing schemes and subnetting protocols
+- Configured IP addressing and subnetting protocols
 
 ---
 
 ## 🏆 Achievements
 
-| 🥇 | 1st Position — App Development @ GCU |
-|---|---|
-| 🥇 | 1st Position — Web Development @ GCU |
-| 🥈 | 2nd Position — FYP App Development |
-| 🌐 | Huawei ICT Competition — National Participant |
-| 📜 | Technical Support Fundamentals — Google |
-| 🔬 | IEEE Student Member |
+🥇 **1st Position** — App Development @ GC University  
+🥇 **1st Position** — Web Development @ GC University  
+🥈 **2nd Position** — FYP App Development  
+🌐 **Huawei ICT Competition** — National Participant  
+📜 **Technical Support Fundamentals** — Google Certified  
+🔬 **IEEE Student Member**
 
 ---
 
@@ -138,11 +131,9 @@ A personalized career guidance platform for students.
 
 <div align="center">
 
-![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanshyk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanshyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ahsanshyk&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanshyk&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanshyk&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
 
 </div>
 
@@ -152,11 +143,11 @@ A personalized career guidance platform for students.
 
 ### 💬 Let's Connect!
 
-I'm actively looking for **Android / Kotlin Developer** roles — remote or on-site.
+I'm actively looking for **Android / Kotlin Developer** roles — remote or on-site.  
 If you have an opportunity or just want to connect, reach out!
 
 📩 **ahsanshaikh5534@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
+![Profile Views](https://komarev.com/ghpvc/?username=ahsanshyk&color=e94560&style=for-the-badge)
 
 </div>
