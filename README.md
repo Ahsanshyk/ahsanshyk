@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-ahmed-shaikh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanshaikh5534@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsanshyk)
+![Profile Views](https://komarev.com/ghpvc/?username=ahsanshyk&color=e94560&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -73,7 +74,7 @@ data class Developer(
 
 ## 🚀 Featured Projects
 
-### 📄 [CV360 — AI Resume Analyzer](https://github.com/ahsanshyk)
+### 📄 CV360 — AI Resume Analyzer
 > *Java • Gemini Pro • Room DB • PDF Parsing* — `2024`
 
 An AI-powered Android app that analyzes resumes against job descriptions with **90%+ matching accuracy**
@@ -83,7 +84,7 @@ An AI-powered Android app that analyzes resumes against job descriptions with **
 
 ---
 
-### 📦 [Go Deliver — IoT Smart Courier App](https://github.com/ahsanshyk)
+### 📦 Go Deliver — IoT Smart Courier App
 > *Java • Android • ESP32 • Bluetooth Low Energy* — `2025`
 
 Automated parcel handling system connecting Android to hardware in real-time
@@ -93,7 +94,7 @@ Automated parcel handling system connecting Android to hardware in real-time
 
 ---
 
-### 🎓 [Raah — Multilingual Career Guidance App](https://github.com/ahsanshyk)
+### 🎓 Raah — Multilingual Career Guidance App
 > *React Native • Expo • Recommender System* — `2026`
 
 Personalized career guidance platform for students
@@ -127,27 +128,13 @@ Personalized career guidance platform for students
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanshyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanshyk&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect!
 
-I'm actively looking for **Android / Kotlin Developer** roles — remote or on-site.  
+I'm actively looking for **Android / Kotlin Developer** roles — remote or on-site.
 If you have an opportunity or just want to connect, reach out!
 
 📩 **ahsanshaikh5534@gmail.com**
-
-![Profile Views](https://komarev.com/ghpvc/?username=ahsanshyk&color=e94560&style=for-the-badge)
 
 </div>
