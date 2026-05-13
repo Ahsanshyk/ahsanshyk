@@ -3,7 +3,7 @@
 # Hi there, I'm Ahsan Ahmed Shaikh 👋
 ### Android & Kotlin Developer 📱
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Android+%26+Kotlin+Developer+%F0%9F%93%B1;Java+%7C+Kotlin+%7C+Jetpack+Compose;Firebase+%7C+REST+APIs+%7C+Room+DB;Open+to+Remote+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Android+%26+Kotlin+Developer+%F0%9F%93%B1;Java+%7C+Kotlin+%7C+Jetpack+Compose;Firebase+%7C+REST+APIs+%7C+Room+DB;Currently+Interning+%40+XCL+Technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,19 +22,20 @@
 data class Developer(
     val name: String       = "Ahsan Ahmed Shaikh",
     val role: String       = "Android & Kotlin Developer",
-    val location: String   = "Karachi, Pakistan 🇵🇰",
-    val education: String  = "BS Information Technology — CGPA 3.7/4.0",
+    val location: String   = "Hyderabad, Sindh, Pakistan 🇵🇰",
+    val education: String  = "BS Information Technology — CGPA 3.51/4.0",
     val university: String = "GC University, Sindh",
-    val experience: String = "Intern @ App In Snap Pvt. Ltd.",
-    val available: Boolean = true  // Open to remote & on-site roles
+    val currentRole: String = "Mobile App Intern @ XCL Technologies",
+    val available: Boolean = true  // Open to full-time & remote roles
 )
 ```
 
-- 🎓 Fresh IT graduate with **3.7/4.0 GPA** from GC University, Sindh
+- 🎓 IT graduate with **3.51/4.0 GPA** from GC University, Sindh
+- 💼 Currently interning as **Mobile App Developer @ XCL Technologies**
 - 📱 Built **3 real-world Android apps** — not just tutorial clones
 - 🏆 **1st Position** in App Development & Web Development at GCU
 - 🌐 **IEEE Student Member**
-- 💼 Open to **Android / Kotlin / Mobile Developer** roles
+- 🚀 Open to **Android / Kotlin Developer** roles — remote or on-site
 
 ---
 
@@ -46,16 +47,16 @@ data class Developer(
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Android Development**
 
-![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Room DB](https://img.shields.io/badge/Room_DB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-6DB33F?style=for-the-badge&logo=android&logoColor=white)
 
 **Backend & Cloud**
 
@@ -74,44 +75,50 @@ data class Developer(
 
 ## 🚀 Featured Projects
 
-### 📄 CV360 — AI Resume Analyzer
+### 🎓 [Acadify — Learning Management System](https://github.com/Ahsanshyk/Acadify)
+> *Kotlin • Firebase Auth • Firestore • Android SDK* — `2026 — In Progress 🔨`
+
+A full-featured LMS Android app for course management and student learning
+- 🔐 **Multi-role authentication** (Admin, Instructor, Student) via Firebase Auth
+- 📚 Course management, student enrollment, and progress tracking
+- ☁️ **Real-time data sync** powered by Firestore
+- 🏗️ Built with **MVVM architecture** and clean code principles
+
+---
+
+### 📦 [Go Deliver — IoT Smart Courier App](https://github.com/ahsanshyk)
+> *Java • Android • ESP32 • Bluetooth Low Energy* — `2025 (FYP)`
+
+Automated parcel handling system connecting Android to hardware in real-time
+- 🔵 Android to **ESP32 hardware communication via BLE**
+- ⚖️ Real-time **weight detection** and sensor data processing
+- 🖨️ Automated **thermal receipt printing** via hardware-software handshakes
+
+---
+
+### 📄 [CV360 — AI Resume Analyzer](https://github.com/ahsanshyk)
 > *Java • Gemini Pro • Room DB • PDF Parsing* — `2024`
 
-An AI-powered Android app that analyzes resumes against job descriptions with **90%+ matching accuracy**
+AI-powered Android app matching resumes with job descriptions at **90%+ accuracy**
 - 🤖 Integrated **Gemini Pro AI** for intelligent resume-job matching
 - 📑 Built custom **PDF parsing engine** from scratch
 - 💾 Offline history tracking with **Room Database**
 
 ---
 
-### 📦 Go Deliver — IoT Smart Courier App
-> *Java • Android • ESP32 • Bluetooth Low Energy* — `2025`
-
-Automated parcel handling system connecting Android to hardware in real-time
-- 🔵 Android to **ESP32 hardware communication via BLE**
-- ⚖️ Real-time **weight detection** and sensor data processing
-- 🖨️ Automated **thermal receipt printing**
-
----
-
-### 🎓 Raah — Multilingual Career Guidance App
-> *React Native • Expo • Recommender System* — `2026`
-
-Personalized career guidance platform for students
-- 🧭 **Content-based recommender** for personalized career pathing
-- 🌐 **Multilingual** support for wider student accessibility
-- 🎓 Expert-verified **internship & scholarship** data modules
-
----
-
 ## 💼 Experience
 
-**🧑‍💻 Software Engineer Intern** — App In Snap Pvt. Ltd. *(Jun – Aug 2023)*
-- Developed & optimized core Java modules with Firebase backend integration
-- Designed high-fidelity UI/UX prototypes in Figma
-- Led cross-device compatibility testing
+**📱 Mobile App Intern** — XCL Technologies, Hyderabad *(Jan 2026 – Present)*
+- Building & maintaining Android apps using **Kotlin + MVVM** architecture
+- Contributing to UI implementation and **Firebase backend** integration
+- Participating in code reviews, debugging & performance optimization
 
-**🌐 Network Engineer Intern** — App In Snap Pvt. Ltd. *(Jan – Feb 2023)*
+**🧑‍💻 Android Developer Intern** — App In Snap Pvt. Ltd., Karachi *(Jun – Aug 2023)*
+- Developed & optimized core Java modules with Firebase backend integration
+- Designed high-fidelity **UI/UX prototypes** in Figma
+- Led cross-device compatibility testing across multiple hardware specs
+
+**🌐 Network Engineer Intern** — App In Snap Pvt. Ltd., Karachi *(Jan – Feb 2023)*
 - Maintained **99.9% uptime** for office infrastructure
 - Configured IP addressing and subnetting protocols
 
@@ -121,9 +128,10 @@ Personalized career guidance platform for students
 
 🥇 **1st Position** — App Development @ GC University  
 🥇 **1st Position** — Web Development @ GC University  
-🥈 **2nd Position** — FYP App Development  
+🥈 **2nd Position** — FYP App Development @ GC University  
 🌐 **Huawei ICT Competition** — National Participant  
 📜 **Technical Support Fundamentals** — Google Certified  
+📜 **WordPress & Freelancing** — DigiSkills  
 🔬 **IEEE Student Member**
 
 ---
@@ -132,7 +140,7 @@ Personalized career guidance platform for students
 
 ### 💬 Let's Connect!
 
-I'm actively looking for **Android / Kotlin Developer** roles — remote or on-site.
+I'm actively looking for **Android / Kotlin Developer** roles — remote or on-site.  
 If you have an opportunity or just want to connect, reach out!
 
 📩 **ahsanshaikh5534@gmail.com**
